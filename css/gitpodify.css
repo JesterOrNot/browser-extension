@@ -9,6 +9,7 @@
 
 .no-container {
     margin-bottom: 10px;
+    background-image: "/icons/gitpod-logo.png";
     display: flex;
     justify-content: flex-end;
 }
